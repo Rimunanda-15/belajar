@@ -39,7 +39,7 @@ console.log("Apakah luas persegi panjang 1 lebih dari yang ke 2? " + (luas > lua
 
 const phi = 3.14
 let jari2 = 7
-let luasLingkaran = phi * (jari2*jari2)
+let luasLingkaran = phi * (jari2**2)
 let kelilingLingkaran = phi * (jari2+jari2)
 console.log("Luas Lingkaran: " + luasLingkaran + "cm2")
 console.log("Keliling Lingkaran: " + kelilingLingkaran + "cm")
