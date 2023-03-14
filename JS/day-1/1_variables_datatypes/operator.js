@@ -26,7 +26,7 @@ console.log(x == y)   //shallow equals
 console.log(x === y)  //deep/strict equals
 console.log(!y)       //not
 
-//exercise
+//Exercise
 let panjang = 5
 let lebar = 6 
 let luas = panjang * lebar
