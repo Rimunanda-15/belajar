@@ -1,3 +1,4 @@
+package Java;
 public class reverseKata {
     public static void main(String[] args) {
         String input = "Inputannya apa ya?";
